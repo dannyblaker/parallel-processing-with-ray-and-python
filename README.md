@@ -5,7 +5,7 @@ The script builds lookup tables that group large ranges of numbers by a “reduc
 **You are most welcome to use this code in your commercial projects, all that I ask in return is that you credit my work by providing a link back to this repository. Thank you & Enjoy!**
 
 # Background
-This script was originally part of one of my projects that involved optimising a dictionary-based compression algorithm. However, I thought it is a useful template demonstrating how you can use [Ray](https://www.ray.io/) to perform data processing in parrallel easily using your local machine.
+This script was originally part of one of my projects that involved optimising a dictionary-based compression algorithm with machine learning. However, I thought it is a useful template demonstrating how you can use [Ray](https://www.ray.io/) to perform data processing in parrallel easily using your local machine.
 
 You can also modify this template to work with multiple machines on your local network. [See Ray docs](https://docs.ray.io/en/latest/ray-core/walkthrough.html)  
 
