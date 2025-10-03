@@ -1,4 +1,4 @@
-![python ray logo](python-ray.png)
+![python ray logo](python-ray-logo.png)
 
 # Summary
 
