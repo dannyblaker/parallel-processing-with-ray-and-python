@@ -1,10 +1,10 @@
-![python ray logo](python-ray-logo.png)
-
 # Summary
 
 The script builds lookup tables that group large ranges of numbers by a “reduced signature” rapidly by leveraging parallel processing via [Python](https://www.python.org/) and the [Ray](https://www.ray.io/) library. 
 
 **You are most welcome to use this code in your commercial projects, all that I ask in return is that you credit my work by providing a link back to this repository. Thank you & Enjoy!**
+
+![python ray logo](python-ray-logo.png)
 
 # Background
 This script was originally part of one of my projects that involved optimising a dictionary-based compression algorithm with machine learning. However, I thought it is a useful template demonstrating how you can use [Ray](https://www.ray.io/) to perform data processing in parrallel easily using your local machine.
