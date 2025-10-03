@@ -1,3 +1,5 @@
+![python ray logo](python-ray.png)
+
 # Summary
 
 The script builds lookup tables that group large ranges of numbers by a “reduced signature” rapidly by leveraging parallel processing via [Python](https://www.python.org/) and the [Ray](https://www.ray.io/) library. 
