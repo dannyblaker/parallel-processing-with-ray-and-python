@@ -28,7 +28,7 @@ At home, I have 3 PCs, 4 laptops. specs are:
 | LAPTOP 4  | 8gb   | 4            |
 
 
-If I were to use max resources of all machines for 7 days, my only costs would be electricity, which would be ~$30 AUD.
+If I were to use maximum resources of all machines for 7 days, my only costs would be electricity, which would be ~$30 AUD.
 
 Whereas, if I ran the same resources via EC2 instance on AWS at max usuage, it would cost >$1K... and if i used a cloud service specialising in ML workloads, it would still cost >$600.
 
